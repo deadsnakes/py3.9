@@ -1,3 +1,9 @@
+python3.9 (3.9.20-1-g8b9a8e0e08-1+focal1) focal; urgency=medium
+
+  * Update to v3.9.20-1-g8b9a8e0e08.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 14 Sep 2024 22:58:28 +0000
+
 python3.9 (3.9.20-1+focal1) focal; urgency=medium
 
   * Python 3.9.20 release.
