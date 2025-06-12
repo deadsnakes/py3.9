@@ -1,3 +1,9 @@
+python3.9 (3.9.23-2-g4f28afe545-1+noble1) noble; urgency=medium
+
+  * Update to v3.9.23-2-g4f28afe545.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 12 Jun 2025 08:55:41 +0000
+
 python3.9 (3.9.23-1-gf690a6f1c2-1+noble1) noble; urgency=medium
 
   * Update to v3.9.23-1-gf690a6f1c2.
