@@ -5,7 +5,6 @@ py3.9
 
 [mainline] and [nightly] builds are current supported for:
 
-- focal
 - jammy
 - noble
 
