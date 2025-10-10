@@ -1,3 +1,9 @@
+python3.9 (3.9.24-1+jammy1) jammy; urgency=medium
+
+  * Update to v3.9.24.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Fri, 10 Oct 2025 08:51:58 +0000
+
 python3.9 (3.9.23-1+jammy1) jammy; urgency=medium
 
   * Update to v3.9.23.
