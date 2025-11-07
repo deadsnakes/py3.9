@@ -3,7 +3,7 @@
 py3.9
 =====
 
-[mainline] and [nightly] builds are current supported for:
+[mainline] builds are current supported for:
 
 - jammy
 - noble
